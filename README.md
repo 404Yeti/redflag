@@ -1,3 +1,5 @@
+<img src="static/redflag.png" width="300" />
+
 # RedFlag
 
 **RedFlag** is a purposely vulnerable web app built with Go and Redis, designed to simulate real-world session management flaws, broken access control, and classic CTF-style vulnerabilities like IDOR. It's lightweight, fast, and deadly — perfect for red teamers, bug bounty hunters, and anyone learning offensive security.
