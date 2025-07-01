@@ -1,0 +1,16 @@
+# Go build outputs
+*.exe
+*.out
+*.test
+
+# Redis
+dump.rdb
+
+# System files
+.DS_Store
+*.swp
+*.log
+
+# IDEs
+.vscode/
+.idea/
